@@ -19,7 +19,7 @@ Exploratory data analysis is performed on the following columns:-
 
 - Weather Condition
 
-some of the hypothesis like accidents occur at peak hours, more accidents occur at colder or winter season and impact of weather condition on accident occurances was verified.
+Some of the hypothesis like accidents occur at peak hours, more accidents occur at colder or winter season and impact of weather condition on accident occurances was verified.
 
 This is a huge dataset were different posibilitiies are there to analyse much more but only a few aspect was analysed in this Project.
 
